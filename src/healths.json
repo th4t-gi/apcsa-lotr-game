@@ -1,0 +1,46 @@
+{
+
+  "warrior": {
+    "health": 50,
+    "attack_power":6,
+    "attack_prob": 67,
+    "critical_prob": 0,
+    "sheild_prob": 0
+  },
+  "elf": {
+    "health": 70,
+    "attack_power": 4,
+    "attack_prob": 83,
+    "critical_prob": 17,
+    "sheild_prob": 0
+  },
+  "dwarf": {
+    "health": 60,
+    "attack_power": 7,
+    "attack_prob": 50,
+    "critical_prob": 33,
+    "sheild_prob": 0
+  },
+  "man": {
+    "health": 55,
+    "attack_power": 6,
+    "attack_prob": 67,
+    "critical_prob": 0,
+    "sheild_prob": 17
+  },
+  "gondor_man": {
+    "health": 60,
+    "attack_power": 5,
+    "attack_prob": 67,
+    "critical_prob": 0,
+    "sheild_prob": 33
+  },
+  "rohan_man": {
+    "health": 75,
+    "attack_power": 4,
+    "attack_prob": 83,
+    "critical_prob": 0,
+    "sheild_prob": 17
+  }
+
+}
