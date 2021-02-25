@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "module": "esnext",
+    "esModuleInterop": true,
+    "target": "esnext",
+    "moduleResolution": "node",
+    "inlineSourceMap": true,
+    "outDir": "build",
+    "rootDir": "src",
+    "resolveJsonModule": true
+  },
+  "include": [
+    "src/**/*"
+  ]
+}
